@@ -1,0 +1,12 @@
+h1{
+
+        front-size:80px;
+        color:dark blue;
+
+}
+#mountains{
+      
+        front-size:48px;
+        color:purple;
+
+}
